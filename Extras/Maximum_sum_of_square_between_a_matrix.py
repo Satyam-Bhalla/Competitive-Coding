@@ -4,4 +4,3 @@ for _ in range(t):
     l = []
     for i in range(n):
         l.append(list(map(int,input().split())))
-    
