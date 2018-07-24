@@ -2,7 +2,6 @@ t = int(input())
 # Python program to compute sum of pairwise bit differences
  
 def sumBitDifferences(arr,n):
- 
     ans = 0  # Initialize result
  
     # traverse over all bits
