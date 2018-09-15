@@ -209,10 +209,10 @@ def billion(num):
         word = pref + " Billion " + word
     word = word.strip()
     return word
-t = int(input())
+t = 1
 for _ in range(t):
-    test = int(input())
-    a = str(test)
+    # test = int(input())
+    a = str(35896321)
     leng = len(a)
     if leng == 1:
         num = once(a)
